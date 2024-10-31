@@ -1,0 +1,17 @@
+/* Custom Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  section {
+    padding-top: 50px;
+  }
+  
+  #galeri img {
+    transition: transform 0.3s ease;
+  }
+  
+  #galeri img:hover {
+    transform: scale(1.1);
+  }
+  
